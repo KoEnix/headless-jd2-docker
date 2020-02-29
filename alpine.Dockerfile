@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM azul/zulu-openjdk-alpine:latest
 
 MAINTAINER PlusMinus <piddlpiddl@gmail.com>
 
