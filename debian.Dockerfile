@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk-debian:11
+FROM azul/zulu-openjdk-alpine:11-jre
 
 MAINTAINER PlusMinus <piddlpiddl@gmail.com>
 
