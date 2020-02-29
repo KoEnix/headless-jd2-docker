@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-slim-sid
+FROM azul/zulu-openjdk-debian:11
 
 MAINTAINER PlusMinus <piddlpiddl@gmail.com>
 
